@@ -1,0 +1,13 @@
+.metadata/
+.recommenders/
+csvIOReader*/
+fbCommonName/
+GroupMeMostLikedSubmitter/
+hello/
+Leetcode/
+rjPong/
+rofael.*/
+.settings/
+bin/
+.classpath
+.project
